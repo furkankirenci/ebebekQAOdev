@@ -7,7 +7,7 @@
 Ama bu 3 kategorinin üzerine imleç ile gelip panel açılmadan hızlıca tıkladığımızda panel açılmamaktadır. 
 Bu işlemin ardından paneli tekrar görmek için imleci tekrar uzaklaştırıp geri getirmek gerekmektedir.
 
-
+![](https://github.com/furkankirenci/ebebekQAOdev/blob/main/src/gifs/Hata1.gif)
 
 ### Hata 2
 
@@ -15,12 +15,8 @@ Bu işlemin ardından paneli tekrar görmek için imleci tekrar uzaklaştırıp 
 Sepetim baloncuğunun üzerine imleç ile geldiğimizde Sepetim yazısının üzerine imleci götürmeye gerek kalmadan tıklayabilmekteyiz.
 Fakat aynı şey Hesabım ve Favoriler için geçerli değil. Baloncukları çalışmamakta. Sadece isimlerinin üzerine gelince tıklanabilmektedir.
 
+![](https://github.com/furkankirenci/ebebekQAOdev/blob/main/src/gifs/Hata1.gif)
 
-
-<!-- OUTPUT SCREENSHOTS -->
-### Output Screenshots
-<!--CHANGE ONLY SRC -NOTHING ELSE -->
-<img src="https://github.com/furkankirenci/ebebekFinalCase/blob/main/images/output.png" alt="selection-sort" />
 
 <!-- CONTACT -->
 ## Contact
