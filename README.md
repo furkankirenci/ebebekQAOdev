@@ -1,7 +1,7 @@
 <!-- ABOUT THE PROJECT -->
 ## ebebek Java & QA & SAP Spartacus Practicum
 
-Ebebek Ekibi tarafından 24.11.2022 tarihinde teslim edilen QA testidir.  
+Ebebek Ekibi tarafından 24.11.2022 tarihinde teslim edilmek üzere ödev verilen QA testidir.  
 
 Yapılan Ödevler
 
