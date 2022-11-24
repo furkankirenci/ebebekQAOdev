@@ -15,7 +15,7 @@ Bu işlemin ardından paneli tekrar görmek için imleci tekrar uzaklaştırıp 
 Sepetim baloncuğunun üzerine imleç ile geldiğimizde Sepetim yazısının üzerine imleci götürmeye gerek kalmadan tıklayabilmekteyiz.
 Fakat aynı şey Hesabım ve Favoriler için geçerli değil. Baloncukları çalışmamakta. Sadece isimlerinin üzerine gelince tıklanabilmektedir.
 
-![](https://github.com/furkankirenci/ebebekQAOdev/blob/main/src/gifs/Hata1.gif)
+![](https://github.com/furkankirenci/ebebekQAOdev/blob/main/src/gifs/Hata2.gif)
 
 
 <!-- CONTACT -->
